@@ -12,7 +12,7 @@
 
 📦  = pkg install git curl nodejs -y
 
-𝗗𝗢𝗪𝗟𝗢𝗗𝗘 𝗧𝗢𝗟𝗟
+𝗗𝗢𝗪𝗟𝗢𝗗𝗘 𝗧𝗢𝗢𝗟
 
 📂  = git clone https://github.com/fgg56865/aternos-24-7-bot.git && cd aternos-24-7-bot && chmod +x install.sh
 
