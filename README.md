@@ -22,3 +22,17 @@ npm install mineflayer
 
 
 ------
+
+
+
+nano index.js
+
+
+------
+
+
+
+node index.js
+
+
+-----
