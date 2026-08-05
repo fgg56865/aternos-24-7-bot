@@ -4,18 +4,27 @@
 
 ​💻 All-in-One Commands:
 
+𝗨𝗣𝗗𝗔𝗧𝗘 𝗧𝗘𝗥𝗠𝗨𝗫
 
 🔄=   pkg update -y && pkg upgrade -y
 
+𝗚𝗜𝗧 𝗗𝗢𝗪𝗟𝗢𝗗𝗘
+
 📦  = pkg install git curl nodejs -y
 
+𝗗𝗢𝗪𝗟𝗢𝗗𝗘 𝗧𝗢𝗟𝗟
+
 📂  = git clone https://github.com/fgg56865/aternos-24-7-bot.git && cd aternos-24-7-bot && chmod +x install.sh
+
+𝗥𝗨𝗡 𝗧𝗢𝗢𝗟
 
 ▶️   =  bash install.sh
 
 
  Minecraft AFK Bot with AuthMe and Server Selector
+ 
 Minecraft AFK Bot
+
 GitHub stars GitHub forks GitHub watchers License Last Commit Code Size Clones Views Code Size Views Counter
 
 🚀 Overview
