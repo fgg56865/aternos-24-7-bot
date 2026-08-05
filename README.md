@@ -15,12 +15,11 @@
 
 𝗗𝗢𝗪𝗟𝗢𝗗𝗘 𝗧𝗢𝗢𝗟
 
-📂  = git clone https://github.com/fgg56865/aternos-24-7-bot.git && cd aternos-24-7-bot && chmod +x install.sh
+📂  = git clone https://github.com/fgg56865/aternos-24-7-bot.git && cd aternos-24-7-bot && chmod +x install
 
-𝗥𝗨𝗡 𝗧𝗢𝗢𝗟
+next command for 
 
-▶️   =  bash install.sh
-
+ls
 
  Minecraft AFK Bot with AuthMe and Server Selector
  
