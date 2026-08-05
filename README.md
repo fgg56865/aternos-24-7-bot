@@ -50,7 +50,7 @@ Feature	Description
 
 🌐 Server Selector	Automatically join servers using commands like /server survival
 
-💤 Anti-AFK System	Periodic jumps, sneaks, and random looks to avoid kick
+💤 Anti-AFK System	, sneaks, and to avoid kick
 
 🧭 Movement & Pathfinding	Moves to configured AFK coordinates using Mineflayer pathfinder
 
