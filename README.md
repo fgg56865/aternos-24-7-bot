@@ -1,4 +1,5 @@
-📦 ATERNOS 24/7 BOT INSTALLATION GUIDE
+
+4 bot  join the game)
 
 ​⚠️ Disclaimer: This script is designed to keep your Aternos server online 24/7 using Termux.
 
