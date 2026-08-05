@@ -20,6 +20,10 @@
 next command for 
 
 ls
+next command
+
+npm install mineflayer
+
 
  Minecraft AFK Bot with AuthMe and Server Selector
  
