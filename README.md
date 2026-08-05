@@ -17,3 +17,8 @@ cd aternos-24-7-bot
 
 -----
 
+
+npm install mineflayer
+
+
+------
